@@ -3,3 +3,4 @@ tensorflow
 joblib
 numpy
 deep_translator
+scikit-learn
