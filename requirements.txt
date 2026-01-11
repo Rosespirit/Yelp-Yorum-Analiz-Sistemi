@@ -1,0 +1,5 @@
+streamlit
+tensorflow
+joblib
+numpy
+deep_translator
