@@ -1,3 +1,4 @@
 # Yelp-Yorum-Analiz-Sistemi
-Yelp yorumlarını analiz eden, Türkçe desteği (Google Translate entegrasyonu) olan ve Makine Öğrenmesi (NLP) ile 1 veya 5 yıldız tahmini yapan bir web uygulaması.
-"NLP Project: Sentiment Analysis on Customer Reviews" Müşteri geri bildirimlerini ve metin verilerini analiz ederek duygu tespiti yapan bir NLP (Doğal Dil İşleme) modelidir. Bu çalışma, karmaşık metin yığınlarından anlamlı veriler çıkarma ve uyum süreçlerinde 'risk odaklı metin analizi' yetkinliğimi desteklemektedir.
+Yelp yorumlarını analiz ederek duygu tespiti yapan ve Makine Öğrenmesi (NLP) ile tahmin yürüten bir web uygulamasıdır. Türkçe desteği (Google Translate entegrasyonu) ile geliştirilen bu model; karmaşık metin yığınlarından anlamlı veriler çıkarma ve uyum (compliance) süreçlerinde 'risk odaklı metin analizi' yetkinliğimi desteklemektedir.
+
+Teknoloji ve hukukun kesişiminde, veri odaklı karar destek mekanizmaları üzerine bir çalışma.
